@@ -5,7 +5,7 @@ estructurado, con el OCR corriendo en el dispositivo y una sola llamada al model
 
 | papel | pizarrón |
 |---|---|
-| <img src="capturas/vacio-papel.png" width="330" alt="Estado vacío en modo claro"> | <img src="capturas/resultado-pizarron.png" width="330" alt="Resultado en modo oscuro"> |
+| ![Estado vacío en modo claro](capturas/vacio-papel.png) | ![Resultado en modo oscuro](capturas/resultado-pizarron.png) |
 
 **Español** · [English](README.en.md)
 
@@ -139,7 +139,7 @@ extraer del binario, así que embebida no protegería nada, y de paso cada usuar
 propio tier gratuito. Consecuencia práctica linda: el proyecto se compila y se recorre
 completo sin ninguna key.
 
-<img src="capturas/ajustes-byok.png" width="330" alt="Ajustes: campo para la key y selector de modelo">
+![Ajustes: campo para la key y selector de modelo](capturas/ajustes-byok.png)
 
 La pantalla dice de dónde se saca la key y **también la letra chica**: en el tier gratuito
 Google usa el contenido para mejorar sus productos. Acá no sale la foto, sale el texto del
@@ -227,7 +227,7 @@ La cuenta de descartes aparece en el panel del modelo y el detalle arriba de la 
 un modelo que acierta el contenido pero devuelve tres entradas inválidas por foto no es
 equivalente a uno que devuelve cero. Esa cuenta es una columna de la tabla de resultados.
 
-<img src="capturas/vista-json.png" width="330" alt="Vista JSON con la respuesta cruda del modelo">
+![Vista JSON con la respuesta cruda del modelo](capturas/vista-json.png)
 
 La vista JSON al lado de la estructura contesta una pregunta distinta: si la nota salió mal,
 ¿se equivocó el modelo o entendió mal el schema? Esta captura es de una respuesta real, y no
@@ -266,7 +266,7 @@ rechazó, en vez de decir que faltaba— y que ese 400 cae en la rama `invalidKe
 
 El camino de éxito también está verificado, con una key real:
 
-<img src="capturas/llamada-real.png" width="330" alt="Llamada real: panel on-device arriba, panel del modelo abajo">
+![Llamada real: panel on-device arriba, panel del modelo abajo](capturas/llamada-real.png)
 
 Los dos paneles separados son a propósito: arriba lo que salió gratis en el teléfono, abajo
 lo que costó tokens. Toda la tesis del proyecto en una pantalla.
@@ -627,7 +627,7 @@ que [`NoTextState`](lib/ui/widgets/no_text_state.dart) lista las cuatro causas d
 frecuente. La última —"la letra es cursiva muy ligada: MLKit está entrenado sobre
 imprenta"— es una limitación real que conviene decir en vez de esconder.
 
-<img src="capturas/sin-texto.png" width="330" alt="Estado sin texto: 0 renglones, confianza s/d, y las cuatro causas probables">
+![Estado sin texto: 0 renglones, confianza s/d, y las cuatro causas probables](capturas/sin-texto.png)
 
 El panel de arriba es la prueba de que el camino gratuito corrió: 1021 ms, 0 renglones,
 confianza `s/d`. Sin esos números, "no encontré texto" y "algo se rompió" se ven igual.
@@ -643,7 +643,7 @@ confianza `s/d`. Sin esos números, "no encontré texto" y "algo se rompió" se 
 
 El de sin red dejó la captura más útil del proyecto:
 
-<img src="capturas/sin-red.png" width="330" alt="Sin conexión: el error muestra Failed host lookup y el panel del OCR marca 1289 ms y 11 renglones">
+![Sin conexión: el error muestra Failed host lookup y el panel del OCR marca 1289 ms y 11 renglones](capturas/sin-red.png)
 
 El error dice `Failed host lookup: 'generativelanguage.googleapis.com'` y, arriba, **el panel
 del OCR muestra 1097 ms y 11 renglones**. La foto se eligió y se reconoció con la red ya

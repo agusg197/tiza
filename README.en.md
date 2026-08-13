@@ -5,7 +5,7 @@ markdown, with the OCR running on the device and a single call to the model.
 
 | paper | blackboard |
 |---|---|
-| <img src="capturas/vacio-papel.png" width="330" alt="Empty state in light mode"> | <img src="capturas/resultado-pizarron.png" width="330" alt="Result in dark mode"> |
+| ![Empty state in light mode](capturas/vacio-papel.png) | ![Result in dark mode](capturas/resultado-pizarron.png) |
 
 [Español](README.md) · **English**
 
@@ -141,7 +141,7 @@ extracted from the binary, so embedding it would protect nothing, and this way e
 spends their own free tier. A nice practical consequence: the project builds and can be
 walked end to end without any key at all.
 
-<img src="capturas/ajustes-byok.png" width="330" alt="Settings: key field and model picker">
+![Settings: key field and model picker](capturas/ajustes-byok.png)
 
 The screen says where to get the key and **also the fine print**: on the free tier Google
 uses the content to improve its products. The photo does not leave the device, the OCR text
@@ -228,7 +228,7 @@ The discard count appears in the model panel and the detail above the note, beca
 that gets the content right but returns three invalid entries per photo is not equivalent to
 one that returns zero. That count is a column in the results table.
 
-<img src="capturas/vista-json.png" width="330" alt="JSON view with the model's raw reply">
+![JSON view with the model's raw reply](capturas/vista-json.png)
 
 The JSON view next to the structure answers a different question: if the note came out wrong,
 did the model get it wrong or did it misunderstand the schema? This screenshot is of a real
@@ -269,7 +269,7 @@ branch of the mapping.
 
 The success path is verified too, with a real key:
 
-<img src="capturas/llamada-real.png" width="330" alt="Real call: on-device panel on top, model panel below">
+![Real call: on-device panel on top, model panel below](capturas/llamada-real.png)
 
 The two separate panels are deliberate: on top what came out free on the phone, below what
 cost tokens. The whole thesis of the project on one screen.
@@ -632,7 +632,7 @@ user needs there is not an apology but a reason it might have happened, so
 frequent. The last one — "the handwriting is heavily joined cursive: MLKit is trained on
 print" — is a real limitation worth stating instead of hiding.
 
-<img src="capturas/sin-texto.png" width="330" alt="No-text state: 0 lines, confidence s/d, and the four likely causes">
+![No-text state: 0 lines, confidence s/d, and the four likely causes](capturas/sin-texto.png)
 
 The panel above it is the proof that the free path ran: 1021 ms, 0 lines, confidence `s/d`.
 Without those numbers, "I found no text" and "something broke" look the same.
@@ -648,7 +648,7 @@ Without those numbers, "I found no text" and "something broke" look the same.
 
 The no-network one produced the most useful screenshot in the project:
 
-<img src="capturas/sin-red.png" width="330" alt="Offline: the error shows Failed host lookup and the OCR panel reads 1097 ms and 11 lines">
+![Offline: the error shows Failed host lookup and the OCR panel reads 1097 ms and 11 lines](capturas/sin-red.png)
 
 The error says `Failed host lookup: 'generativelanguage.googleapis.com'` and, above it, **the
 OCR panel reads 1097 ms and 11 lines**. The photo was picked and recognized with the network
