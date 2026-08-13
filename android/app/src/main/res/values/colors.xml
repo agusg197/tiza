@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Terracota: el mismo acento que usa el tema de la app. -->
+    <color name="ic_launcher_background">#B0542F</color>
+    <!-- Papel. Tiene que ser exactamente TizaPalette.light.paper: si difiere, se
+         ve un flash de color entre el splash y el primer frame de Flutter. -->
+    <color name="launch_background">#F6F1E6</color>
+</resources>

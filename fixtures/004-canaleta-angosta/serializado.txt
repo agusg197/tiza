@@ -1,0 +1,10 @@
+# formato: [y x alto] texto
+# y, x: esquina superior izquierda del renglón, 0-100 sobre la imagen
+# alto: 0-100 relativo al texto más grande de la imagen
+[  5   8 100] Decision
+[ 15   9  65] Pros
+[ 15  44  65] Contras
+[ 20   9  63] es rapido pero hay que mantenerlo
+[ 23   9  59] el equipo ya lo conoce bien
+[ 26  44  69] poco flexible
+[ 29  44  57] sin soporte

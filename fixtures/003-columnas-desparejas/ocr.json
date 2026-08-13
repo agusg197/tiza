@@ -1,0 +1,195 @@
+{
+  "imageWidth": 1200,
+  "imageHeight": 1600,
+  "blocks": [
+    {
+      "text": "Retro sprint 14",
+      "box": {
+        "l": 98.0,
+        "t": 85.0,
+        "w": 462.0,
+        "h": 66.0
+      },
+      "lines": [
+        {
+          "text": "Retro sprint 14",
+          "box": {
+            "l": 98.0,
+            "t": 85.0,
+            "w": 462.0,
+            "h": 66.0
+          },
+          "confidence": 0.8969351053237915
+        }
+      ]
+    },
+    {
+      "text": "Salio bien",
+      "box": {
+        "l": 111.0,
+        "t": 245.0,
+        "w": 187.0,
+        "h": 34.0
+      },
+      "lines": [
+        {
+          "text": "Salio bien",
+          "box": {
+            "l": 111.0,
+            "t": 245.0,
+            "w": 187.0,
+            "h": 34.0
+          },
+          "confidence": 0.8346354365348816
+        }
+      ]
+    },
+    {
+      "text": "deploy sin downtime",
+      "box": {
+        "l": 146.0,
+        "t": 315.0,
+        "w": 262.0,
+        "h": 34.0
+      },
+      "lines": [
+        {
+          "text": "deploy sin downtime",
+          "box": {
+            "l": 146.0,
+            "t": 315.0,
+            "w": 262.0,
+            "h": 34.0
+          },
+          "confidence": 0.89453125
+        }
+      ]
+    },
+    {
+      "text": "menos bugs",
+      "box": {
+        "l": 147.0,
+        "t": 371.0,
+        "w": 152.0,
+        "h": 28.0
+      },
+      "lines": [
+        {
+          "text": "menos bugs",
+          "box": {
+            "l": 147.0,
+            "t": 371.0,
+            "w": 152.0,
+            "h": 28.0
+          },
+          "confidence": 0.8706597089767456
+        }
+      ]
+    },
+    {
+      "text": "buena comunicacion",
+      "box": {
+        "l": 147.0,
+        "t": 420.0,
+        "w": 258.0,
+        "h": 22.0
+      },
+      "lines": [
+        {
+          "text": "buena comunicacion",
+          "box": {
+            "l": 147.0,
+            "t": 420.0,
+            "w": 258.0,
+            "h": 22.0
+          },
+          "confidence": 0.8428308963775635
+        }
+      ]
+    },
+    {
+      "text": "demo a tiempo",
+      "box": {
+        "l": 146.0,
+        "t": 467.0,
+        "w": 193.0,
+        "h": 32.0
+      },
+      "lines": [
+        {
+          "text": "demo a tiempo",
+          "box": {
+            "l": 146.0,
+            "t": 467.0,
+            "w": 193.0,
+            "h": 32.0
+          },
+          "confidence": 0.8618608117103577
+        }
+      ]
+    },
+    {
+      "text": "A mejorar",
+      "box": {
+        "l": 689.0,
+        "t": 392.0,
+        "w": 194.0,
+        "h": 47.0
+      },
+      "lines": [
+        {
+          "text": "A mejorar",
+          "box": {
+            "l": 689.0,
+            "t": 392.0,
+            "w": 194.0,
+            "h": 47.0
+          },
+          "confidence": 0.85595703125
+        }
+      ]
+    },
+    {
+      "text": "estimaciones",
+      "box": {
+        "l": 727.0,
+        "t": 470.0,
+        "w": 161.0,
+        "h": 22.0
+      },
+      "lines": [
+        {
+          "text": "estimaciones",
+          "box": {
+            "l": 727.0,
+            "t": 470.0,
+            "w": 161.0,
+            "h": 22.0
+          },
+          "confidence": 0.9049479365348816
+        }
+      ]
+    },
+    {
+      "text": "tests lentos",
+      "box": {
+        "l": 726.0,
+        "t": 521.0,
+        "w": 142.0,
+        "h": 21.0
+      },
+      "lines": [
+        {
+          "text": "tests lentos",
+          "box": {
+            "l": 726.0,
+            "t": 521.0,
+            "w": 142.0,
+            "h": 21.0
+          },
+          "confidence": 0.890625
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+# formato: [y x alto] texto
+# y, x: esquina superior izquierda del renglón, 0-100 sobre la imagen
+# alto: 0-100 relativo al texto más grande de la imagen
+[  5   8 100] Roadmap Q3
+[ 16  79  46] Infra
+[ 17   9  44] Backend
+[ 17  48  44] Mobile
+[ 21  12  37] cola de jobs
+[ 21  82  28] terraform
+[ 22  51  19] camara nueva
+[ 24  12  36] cache de sesiones
+[ 24  82  31] alertas
+[ 24  51  28] offline
+[ 28  12  36] migrar postgres

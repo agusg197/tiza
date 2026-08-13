@@ -1,0 +1,237 @@
+{
+  "imageWidth": 1200,
+  "imageHeight": 1600,
+  "blocks": [
+    {
+      "text": "Sprint planning",
+      "box": {
+        "l": 96.0,
+        "t": 85.0,
+        "w": 475.0,
+        "h": 71.0
+      },
+      "lines": [
+        {
+          "text": "Sprint planning",
+          "box": {
+            "l": 96.0,
+            "t": 85.0,
+            "w": 475.0,
+            "h": 71.0
+          },
+          "confidence": 0.8716517686843872
+        }
+      ]
+    },
+    {
+      "text": "Objetivos",
+      "box": {
+        "l": 110.0,
+        "t": 235.0,
+        "w": 184.0,
+        "h": 44.0
+      },
+      "lines": [
+        {
+          "text": "Objetivos",
+          "box": {
+            "l": 110.0,
+            "t": 235.0,
+            "w": 184.0,
+            "h": 44.0
+          },
+          "confidence": 0.81640625
+        }
+      ]
+    },
+    {
+      "text": "cerrar el checkout",
+      "box": {
+        "l": 146.0,
+        "t": 306.0,
+        "w": 221.0,
+        "h": 30.0
+      },
+      "lines": [
+        {
+          "text": "cerrar el checkout",
+          "box": {
+            "l": 146.0,
+            "t": 306.0,
+            "w": 221.0,
+            "h": 30.0
+          },
+          "confidence": 0.871826171875
+        }
+      ]
+    },
+    {
+      "text": "migrar la base",
+      "box": {
+        "l": 147.0,
+        "t": 357.0,
+        "w": 175.0,
+        "h": 30.0
+      },
+      "lines": [
+        {
+          "text": "migrar la base",
+          "box": {
+            "l": 147.0,
+            "t": 357.0,
+            "w": 175.0,
+            "h": 30.0
+          },
+          "confidence": 0.8857421875
+        }
+      ]
+    },
+    {
+      "text": "medir latencia",
+      "box": {
+        "l": 147.0,
+        "t": 408.0,
+        "w": 174.0,
+        "h": 26.0
+      },
+      "lines": [
+        {
+          "text": "medir latencia",
+          "box": {
+            "l": 147.0,
+            "t": 408.0,
+            "w": 174.0,
+            "h": 26.0
+          },
+          "confidence": 0.8909254670143127
+        }
+      ]
+    },
+    {
+      "text": "Riesgos",
+      "box": {
+        "l": 110.0,
+        "t": 513.0,
+        "w": 149.0,
+        "h": 46.0
+      },
+      "lines": [
+        {
+          "text": "Riesgos",
+          "box": {
+            "l": 110.0,
+            "t": 513.0,
+            "w": 149.0,
+            "h": 46.0
+          },
+          "confidence": 0.8872767686843872
+        }
+      ]
+    },
+    {
+      "text": "el proveedor no responde",
+      "box": {
+        "l": 146.0,
+        "t": 590.0,
+        "w": 328.0,
+        "h": 29.0
+      },
+      "lines": [
+        {
+          "text": "el proveedor no responde",
+          "box": {
+            "l": 146.0,
+            "t": 590.0,
+            "w": 328.0,
+            "h": 29.0
+          },
+          "confidence": 0.9036458134651184
+        }
+      ]
+    },
+    {
+      "text": "Action items",
+      "box": {
+        "l": 648.0,
+        "t": 233.0,
+        "w": 245.0,
+        "h": 37.0
+      },
+      "lines": [
+        {
+          "text": "Action items",
+          "box": {
+            "l": 648.0,
+            "t": 233.0,
+            "w": 245.0,
+            "h": 37.0
+          },
+          "confidence": 0.8682528138160706
+        }
+      ]
+    },
+    {
+      "text": "Ana: revisar metricas",
+      "box": {
+        "l": 686.0,
+        "t": 310.0,
+        "w": 260.0,
+        "h": 22.0
+      },
+      "lines": [
+        {
+          "text": "Ana: revisar metricas",
+          "box": {
+            "l": 686.0,
+            "t": 310.0,
+            "w": 260.0,
+            "h": 22.0
+          },
+          "confidence": 0.89453125
+        }
+      ]
+    },
+    {
+      "text": "Beto: deploy el viernes",
+      "box": {
+        "l": 688.0,
+        "t": 360.0,
+        "w": 283.0,
+        "h": 28.0
+      },
+      "lines": [
+        {
+          "text": "Beto: deploy el viernes",
+          "box": {
+            "l": 688.0,
+            "t": 360.0,
+            "w": 283.0,
+            "h": 28.0
+          },
+          "confidence": 0.8916015625
+        }
+      ]
+    },
+    {
+      "text": "Cami: hablar con legales",
+      "box": {
+        "l": 685.0,
+        "t": 406.0,
+        "w": 308.0,
+        "h": 33.0
+      },
+      "lines": [
+        {
+          "text": "Cami: hablar con legales",
+          "box": {
+            "l": 685.0,
+            "t": 406.0,
+            "w": 308.0,
+            "h": 33.0
+          },
+          "confidence": 0.8818824291229248
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+# formato: [y x alto] texto
+# y, x: esquina superior izquierda del renglón, 0-100 sobre la imagen
+# alto: 0-100 relativo al texto más grande de la imagen
+[  5   8 100] Sprint planning
+[ 15  54  52] Action items
+[ 15   9  62] Objetivos
+[ 19  12  42] cerrar el checkout
+[ 19  57  31] Ana: revisar metricas
+[ 22  12  42] migrar la base
+[ 23  57  39] Beto: deploy el viernes
+[ 25  57  46] Cami: hablar con legales
+[ 26  12  37] medir latencia
+[ 32   9  65] Riesgos
+[ 37  12  41] el proveedor no responde

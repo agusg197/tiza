@@ -1,0 +1,174 @@
+{
+  "imageWidth": 1200,
+  "imageHeight": 1600,
+  "blocks": [
+    {
+      "text": "Notas de la reunion",
+      "box": {
+        "l": 99.0,
+        "t": 85.0,
+        "w": 615.0,
+        "h": 54.0
+      },
+      "lines": [
+        {
+          "text": "Notas de la reunion",
+          "box": {
+            "l": 99.0,
+            "t": 85.0,
+            "w": 615.0,
+            "h": 54.0
+          },
+          "confidence": 0.8974609375
+        }
+      ]
+    },
+    {
+      "text": "Objetivos",
+      "box": {
+        "l": 110.0,
+        "t": 245.0,
+        "w": 184.0,
+        "h": 44.0
+      },
+      "lines": [
+        {
+          "text": "Objetivos",
+          "box": {
+            "l": 110.0,
+            "t": 245.0,
+            "w": 184.0,
+            "h": 44.0
+          },
+          "confidence": 0.8315972089767456
+        }
+      ]
+    },
+    {
+      "text": "Riesgos",
+      "box": {
+        "l": 110.0,
+        "t": 513.0,
+        "w": 149.0,
+        "h": 46.0
+      },
+      "lines": [
+        {
+          "text": "Riesgos",
+          "box": {
+            "l": 110.0,
+            "t": 513.0,
+            "w": 149.0,
+            "h": 46.0
+          },
+          "confidence": 0.9017857313156128
+        }
+      ]
+    },
+    {
+      "text": "cerrar la propuesta",
+      "box": {
+        "l": 346.0,
+        "t": 319.0,
+        "w": 236.0,
+        "h": 30.0
+      },
+      "lines": [
+        {
+          "text": "cerrar la propuesta",
+          "box": {
+            "l": 346.0,
+            "t": 319.0,
+            "w": 236.0,
+            "h": 30.0
+          },
+          "confidence": 0.841911792755127
+        }
+      ]
+    },
+    {
+      "text": "revisar el pricing",
+      "box": {
+        "l": 346.0,
+        "t": 366.0,
+        "w": 203.0,
+        "h": 33.0
+      },
+      "lines": [
+        {
+          "text": "revisar el pricing",
+          "box": {
+            "l": 346.0,
+            "t": 366.0,
+            "w": 203.0,
+            "h": 33.0
+          },
+          "confidence": 0.906494140625
+        }
+      ]
+    },
+    {
+      "text": "hablar con compras",
+      "box": {
+        "l": 346.0,
+        "t": 418.0,
+        "w": 249.0,
+        "h": 30.0
+      },
+      "lines": [
+        {
+          "text": "hablar con compras",
+          "box": {
+            "l": 346.0,
+            "t": 418.0,
+            "w": 249.0,
+            "h": 30.0
+          },
+          "confidence": 0.830322265625
+        }
+      ]
+    },
+    {
+      "text": "el cliente no confirma",
+      "box": {
+        "l": 346.0,
+        "t": 590.0,
+        "w": 271.0,
+        "h": 22.0
+      },
+      "lines": [
+        {
+          "text": "el cliente no confirma",
+          "box": {
+            "l": 346.0,
+            "t": 590.0,
+            "w": 271.0,
+            "h": 22.0
+          },
+          "confidence": 0.8727384805679321
+        }
+      ]
+    },
+    {
+      "text": "falta el legal",
+      "box": {
+        "l": 345.0,
+        "t": 637.0,
+        "w": 152.0,
+        "h": 29.0
+      },
+      "lines": [
+        {
+          "text": "falta el legal",
+          "box": {
+            "l": 345.0,
+            "t": 637.0,
+            "w": 152.0,
+            "h": 29.0
+          },
+          "confidence": 0.8395182490348816
+        }
+      ]
+    }
+  ]
+}

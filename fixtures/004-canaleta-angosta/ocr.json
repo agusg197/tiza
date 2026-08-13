@@ -1,0 +1,153 @@
+{
+  "imageWidth": 1200,
+  "imageHeight": 1600,
+  "blocks": [
+    {
+      "text": "Decision",
+      "box": {
+        "l": 99.0,
+        "t": 85.0,
+        "w": 257.0,
+        "h": 54.0
+      },
+      "lines": [
+        {
+          "text": "Decision",
+          "box": {
+            "l": 99.0,
+            "t": 85.0,
+            "w": 257.0,
+            "h": 54.0
+          },
+          "confidence": 0.91845703125
+        }
+      ]
+    },
+    {
+      "text": "Pros",
+      "box": {
+        "l": 111.0,
+        "t": 245.0,
+        "w": 81.0,
+        "h": 35.0
+      },
+      "lines": [
+        {
+          "text": "Pros",
+          "box": {
+            "l": 111.0,
+            "t": 245.0,
+            "w": 81.0,
+            "h": 35.0
+          },
+          "confidence": 0.900390625
+        }
+      ]
+    },
+    {
+      "text": "Contras",
+      "box": {
+        "l": 529.0,
+        "t": 245.0,
+        "w": 149.0,
+        "h": 35.0
+      },
+      "lines": [
+        {
+          "text": "Contras",
+          "box": {
+            "l": 529.0,
+            "t": 245.0,
+            "w": 149.0,
+            "h": 35.0
+          },
+          "confidence": 0.8448660969734192
+        }
+      ]
+    },
+    {
+      "text": "es rapido pero hay que mantenerlo",
+      "box": {
+        "l": 106.0,
+        "t": 316.0,
+        "w": 444.0,
+        "h": 34.0
+      },
+      "lines": [
+        {
+          "text": "es rapido pero hay que mantenerlo",
+          "box": {
+            "l": 106.0,
+            "t": 316.0,
+            "w": 444.0,
+            "h": 34.0
+          },
+          "confidence": 0.8648158311843872
+        }
+      ]
+    },
+    {
+      "text": "el equipo ya lo conoce bien",
+      "box": {
+        "l": 106.0,
+        "t": 366.0,
+        "w": 345.0,
+        "h": 32.0
+      },
+      "lines": [
+        {
+          "text": "el equipo ya lo conoce bien",
+          "box": {
+            "l": 106.0,
+            "t": 366.0,
+            "w": 345.0,
+            "h": 32.0
+          },
+          "confidence": 0.8446378111839294
+        }
+      ]
+    },
+    {
+      "text": "poco flexible",
+      "box": {
+        "l": 526.0,
+        "t": 413.0,
+        "w": 158.0,
+        "h": 37.0
+      },
+      "lines": [
+        {
+          "text": "poco flexible",
+          "box": {
+            "l": 526.0,
+            "t": 413.0,
+            "w": 158.0,
+            "h": 37.0
+          },
+          "confidence": 0.8577473759651184
+        }
+      ]
+    },
+    {
+      "text": "sin soporte",
+      "box": {
+        "l": 526.0,
+        "t": 468.0,
+        "w": 138.0,
+        "h": 31.0
+      },
+      "lines": [
+        {
+          "text": "sin soporte",
+          "box": {
+            "l": 526.0,
+            "t": 468.0,
+            "w": 138.0,
+            "h": 31.0
+          },
+          "confidence": 0.829296886920929
+        }
+      ]
+    }
+  ]
+}

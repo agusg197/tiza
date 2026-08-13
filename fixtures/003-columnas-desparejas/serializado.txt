@@ -1,0 +1,12 @@
+# formato: [y x alto] texto
+# y, x: esquina superior izquierda del renglón, 0-100 sobre la imagen
+# alto: 0-100 relativo al texto más grande de la imagen
+[  5   8 100] Retro sprint 14
+[ 15   9  52] Salio bien
+[ 20  12  52] deploy sin downtime
+[ 23  12  42] menos bugs
+[ 25  57  71] A mejorar
+[ 26  12  33] buena comunicacion
+[ 29  12  48] demo a tiempo
+[ 29  61  33] estimaciones
+[ 33  61  32] tests lentos

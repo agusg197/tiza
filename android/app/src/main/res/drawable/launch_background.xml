@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- El fondo del splash. Sale de @color/launch_background, que tiene una variante
+     en values-night, para que la app arranque ya sobre papel o ya sobre pizarrón
+     en vez de pasar por un blanco. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/launch_background" />
+</layer-list>

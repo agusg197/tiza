@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema de la ventana mientras arranca el proceso, con el modo oscuro del
+         sistema apagado. -->
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@drawable/launch_background</item>
+        <!-- drawable-v21/launch_background.xml apunta a ?android:colorBackground,
+             y minSdk es 24, así que este es el color que se ve en la práctica. -->
+        <item name="android:colorBackground">@color/launch_background</item>
+    </style>
+    <!-- Tema de la ventana una vez arrancado el proceso: es el color que queda
+         detrás de la UI de Flutter mientras se inicializa. Mismo papel, para que
+         no haya un salto de color. -->
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+        <item name="android:colorBackground">@color/launch_background</item>
+    </style>
+</resources>
